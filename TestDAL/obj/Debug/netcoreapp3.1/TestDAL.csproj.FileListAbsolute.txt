@@ -1,0 +1,16 @@
+D:\Practise\TestProject\TestDAL\bin\Debug\netcoreapp3.1\TestDAL.deps.json
+D:\Practise\TestProject\TestDAL\bin\Debug\netcoreapp3.1\TestDAL.runtimeconfig.json
+D:\Practise\TestProject\TestDAL\bin\Debug\netcoreapp3.1\TestDAL.runtimeconfig.dev.json
+D:\Practise\TestProject\TestDAL\bin\Debug\netcoreapp3.1\TestDAL.dll
+D:\Practise\TestProject\TestDAL\bin\Debug\netcoreapp3.1\TestDAL.pdb
+D:\Practise\TestProject\TestDAL\obj\Debug\netcoreapp3.1\TestDAL.csproj.AssemblyReference.cache
+D:\Practise\TestProject\TestDAL\obj\Debug\netcoreapp3.1\TestDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\TestProject\TestDAL\obj\Debug\netcoreapp3.1\TestDAL.AssemblyInfoInputs.cache
+D:\Practise\TestProject\TestDAL\obj\Debug\netcoreapp3.1\TestDAL.AssemblyInfo.cs
+D:\Practise\TestProject\TestDAL\obj\Debug\netcoreapp3.1\TestDAL.csproj.CoreCompileInputs.cache
+D:\Practise\TestProject\TestDAL\obj\Debug\netcoreapp3.1\TestDAL.dll
+D:\Practise\TestProject\TestDAL\obj\Debug\netcoreapp3.1\TestDAL.pdb
+D:\Practise\TestProject\TestDAL\obj\Debug\netcoreapp3.1\TestDAL.genruntimeconfig.cache
+D:\Practise\TestProject\TestDAL\bin\Debug\netcoreapp3.1\TestDTO.dll
+D:\Practise\TestProject\TestDAL\bin\Debug\netcoreapp3.1\TestDTO.pdb
+D:\Practise\TestProject\TestDAL\obj\Debug\netcoreapp3.1\TestDAL.csproj.CopyComplete

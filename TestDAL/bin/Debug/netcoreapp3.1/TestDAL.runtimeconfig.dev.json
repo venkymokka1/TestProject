@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mokka.venkateswarao.AVIACODE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mokka.venkateswarao.AVIACODE\\.nuget\\packages"
+    ]
+  }
+}

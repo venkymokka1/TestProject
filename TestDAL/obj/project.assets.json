@@ -3545,12 +3545,11 @@
       ]
     },
     "System.Net.NameResolution/4.3.0": {
-      "sha512": "AFYl08R7MrsrEjqpQWTZWBadqXyTzNDaWpMqyxhb0d6sGhV6xMDKueuBXlLL30gz+DIRY6MpdgnHWlCh5wmq9w==",
+      "sha512": "DPvMSdd32CbEOCTtOpO4nY9UvbP6LJe375F1yEQjy667WT5LEh1Ek2T4DSVw1STR0K3LSawWfBFwoeSG0TXFeA==",
       "type": "package",
       "path": "system.net.nameresolution/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5738,19 +5737,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mokka.venkateswarao.AVIACODE\\.nuget\\packages\\": {}
+    "C:\\Users\\abidb\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practise\\TestProject\\TestDAL\\TestDAL.csproj",
+      "projectUniqueName": "E:\\Project\\TestProject\\TestDAL\\TestDAL.csproj",
       "projectName": "TestDAL",
-      "projectPath": "D:\\Practise\\TestProject\\TestDAL\\TestDAL.csproj",
-      "packagesPath": "C:\\Users\\mokka.venkateswarao.AVIACODE\\.nuget\\packages\\",
-      "outputPath": "D:\\Practise\\TestProject\\TestDAL\\obj\\",
+      "projectPath": "E:\\Project\\TestProject\\TestDAL\\TestDAL.csproj",
+      "packagesPath": "C:\\Users\\abidb\\.nuget\\packages\\",
+      "outputPath": "E:\\Project\\TestProject\\TestDAL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\mokka.venkateswarao.AVIACODE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abidb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5758,18 +5761,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.aviacode.com/nuget": {},
-        "http://nuget.development.aviacode.com/nuget": {},
-        "http://nuget.staging.aviacode.com/nuget": {},
-        "http://nuget.testing.aviacode.com/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Practise\\TestProject\\TestDTO\\TestDTO.csproj": {
-              "projectPath": "D:\\Practise\\TestProject\\TestDTO\\TestDTO.csproj"
+            "E:\\Project\\TestProject\\TestDTO\\TestDTO.csproj": {
+              "projectPath": "E:\\Project\\TestProject\\TestDTO\\TestDTO.csproj"
             }
           }
         }
@@ -5820,7 +5819,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

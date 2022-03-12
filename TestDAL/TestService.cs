@@ -26,15 +26,15 @@ namespace TestDAL
             }
         }
 
-        //public void UpdateEmployee(Employee model)
-        //{
-        //    using (var context = new TestContext())
-        //    {
-        //        // var res = context.Employee.(a => a.id == model.Id).fi
-        //        context.Employee.Update(model);
-        //        context.SaveChanges();
-        //    }
-        //}
+        public void UpdateEmployee(Employee model)
+        {
+            using (var context = new TestContext())
+            {
+                // var res = context.Employee.(a => a.id == model.Id).fi
+                context.Employee.Update(model);
+                context.SaveChanges();
+            }
+        }
 
         //public void DeleteEmployee(int Id)
         //{

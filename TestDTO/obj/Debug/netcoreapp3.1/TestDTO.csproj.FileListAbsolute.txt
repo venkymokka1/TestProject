@@ -1,7 +1,6 @@
 D:\Practise\TestProject\TestDTO\bin\Debug\netcoreapp3.1\TestDTO.deps.json
 D:\Practise\TestProject\TestDTO\bin\Debug\netcoreapp3.1\TestDTO.dll
 D:\Practise\TestProject\TestDTO\bin\Debug\netcoreapp3.1\TestDTO.pdb
-D:\Practise\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.csproj.AssemblyReference.cache
 D:\Practise\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.GeneratedMSBuildEditorConfig.editorconfig
 D:\Practise\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.AssemblyInfoInputs.cache
 D:\Practise\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.AssemblyInfo.cs

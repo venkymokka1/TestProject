@@ -15,14 +15,17 @@ namespace TestProject.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        TestService _service = new TestService();
+        ITestService _service;
+        public EmployeeController(ITestService service)
+        {
+            _service = service;
+        }
 
         [HttpGet]
         [Route("api/[controller]/GetEmployees")]
-        public IEnumerable<EmployeeDTO> GetEmployees()
+        public List<Employee> GetEmployees()
         {
-            var res = _service.GetAllEmployes();
-            return _service.GetAllEmployes().AsEnumerable().ToArray();
+            return _service.GetAllEmployes();
         }
 
         [HttpPost]
@@ -30,6 +33,13 @@ namespace TestProject.Controllers
         public void AddEmployee(Employee model)
         {
             _service.AddEmployee(model);
+        }
+
+        [HttpPost]
+        [Route("api/[controller]/AddDept")]
+        public void AddDept(Dept model)
+        {
+            _service.AddDept(model);
         }
     }
 }

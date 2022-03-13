@@ -41,16 +41,9 @@ D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions
 D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Practise\TestProject\TestProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll

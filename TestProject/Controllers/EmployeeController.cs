@@ -35,6 +35,7 @@ namespace TestProject.Controllers
             _service.AddEmployee(model);
         }
 
+
         [HttpPost]
         [Route("api/[controller]/AddDept")]
         public void AddDept(Dept model)

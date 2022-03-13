@@ -7,3 +7,13 @@ D:\Practise\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.AssemblyInfo.cs
 D:\Practise\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.csproj.CoreCompileInputs.cache
 D:\Practise\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.dll
 D:\Practise\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.pdb
+E:\Project\Abid\TestProject\TestDTO\bin\Debug\netcoreapp3.1\TestDTO.deps.json
+E:\Project\Abid\TestProject\TestDTO\bin\Debug\netcoreapp3.1\TestDTO.dll
+E:\Project\Abid\TestProject\TestDTO\bin\Debug\netcoreapp3.1\TestDTO.pdb
+E:\Project\Abid\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.csproj.AssemblyReference.cache
+E:\Project\Abid\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Abid\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.AssemblyInfoInputs.cache
+E:\Project\Abid\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.AssemblyInfo.cs
+E:\Project\Abid\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.csproj.CoreCompileInputs.cache
+E:\Project\Abid\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.dll
+E:\Project\Abid\TestProject\TestDTO\obj\Debug\netcoreapp3.1\TestDTO.pdb

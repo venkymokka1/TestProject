@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\mokka.venkateswarao.AVIACODE\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\mokka.venkateswarao.AVIACODE\\.nuget\\packages"
+      "C:\\Users\\abidb\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\abidb\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }

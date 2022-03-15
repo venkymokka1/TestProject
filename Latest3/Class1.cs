@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Latest
+namespace Latest3
 {
     public class Class1
     {

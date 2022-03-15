@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\Abid\\TestProject\\Latest\\Latest.csproj",
-      "projectName": "Latest",
-      "projectPath": "E:\\Project\\Abid\\TestProject\\Latest\\Latest.csproj",
+      "projectUniqueName": "E:\\Project\\Abid\\TestProject\\Latest3\\Latest3.csproj",
+      "projectName": "Latest3",
+      "projectPath": "E:\\Project\\Abid\\TestProject\\Latest3\\Latest3.csproj",
       "packagesPath": "C:\\Users\\abidb\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\Abid\\TestProject\\Latest\\obj\\",
+      "outputPath": "E:\\Project\\Abid\\TestProject\\Latest3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

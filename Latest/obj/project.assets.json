@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\Abid\\TestProject\\TestDTO\\TestDTO.csproj",
-      "projectName": "TestDTO",
-      "projectPath": "E:\\Project\\Abid\\TestProject\\TestDTO\\TestDTO.csproj",
+      "projectUniqueName": "E:\\Project\\Abid\\TestProject\\Latest\\Latest.csproj",
+      "projectName": "Latest",
+      "projectPath": "E:\\Project\\Abid\\TestProject\\Latest\\Latest.csproj",
       "packagesPath": "C:\\Users\\abidb\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\Abid\\TestProject\\TestDTO\\obj\\",
+      "outputPath": "E:\\Project\\Abid\\TestProject\\Latest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5743,11 +5743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\TestProject\\TestDAL\\TestDAL.csproj",
+      "projectUniqueName": "E:\\Project\\Abid\\TestProject\\TestDAL\\TestDAL.csproj",
       "projectName": "TestDAL",
-      "projectPath": "E:\\Project\\TestProject\\TestDAL\\TestDAL.csproj",
+      "projectPath": "E:\\Project\\Abid\\TestProject\\TestDAL\\TestDAL.csproj",
       "packagesPath": "C:\\Users\\abidb\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\TestProject\\TestDAL\\obj\\",
+      "outputPath": "E:\\Project\\Abid\\TestProject\\TestDAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5767,8 +5767,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Project\\TestProject\\TestDTO\\TestDTO.csproj": {
-              "projectPath": "E:\\Project\\TestProject\\TestDTO\\TestDTO.csproj"
+            "E:\\Project\\Abid\\TestProject\\TestDTO\\TestDTO.csproj": {
+              "projectPath": "E:\\Project\\Abid\\TestProject\\TestDTO\\TestDTO.csproj"
             }
           }
         }

@@ -5917,11 +5917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\TestProject\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "E:\\Project\\Abid\\TestProject\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "E:\\Project\\TestProject\\TestProject\\TestProject.csproj",
+      "projectPath": "E:\\Project\\Abid\\TestProject\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\abidb\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\TestProject\\TestProject\\obj\\",
+      "outputPath": "E:\\Project\\Abid\\TestProject\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5941,11 +5941,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Project\\TestProject\\TestDAL\\TestDAL.csproj": {
-              "projectPath": "E:\\Project\\TestProject\\TestDAL\\TestDAL.csproj"
+            "E:\\Project\\Abid\\TestProject\\TestDAL\\TestDAL.csproj": {
+              "projectPath": "E:\\Project\\Abid\\TestProject\\TestDAL\\TestDAL.csproj"
             },
-            "E:\\Project\\TestProject\\TestDTO\\TestDTO.csproj": {
-              "projectPath": "E:\\Project\\TestProject\\TestDTO\\TestDTO.csproj"
+            "E:\\Project\\Abid\\TestProject\\TestDTO\\TestDTO.csproj": {
+              "projectPath": "E:\\Project\\Abid\\TestProject\\TestDTO\\TestDTO.csproj"
             }
           }
         }
